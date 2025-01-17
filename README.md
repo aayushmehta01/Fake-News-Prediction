@@ -48,8 +48,12 @@ This is a Python-based project that utilizes AI/ML algorithms to predict whether
 1. Provide the news article text via the user interface or input prompt.
 2. The system processes the text and outputs whether the article is "Real" or "Fake."
 
+## Run in Google Colab
+To run the project in Google Colab, simply upload the notebook, install dependencies, and start running the cells.
+
 ## Credits
 
 - Dataset: [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - Tutorials and References:  Python documentation.
 
+- 
