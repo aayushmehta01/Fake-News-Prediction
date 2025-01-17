@@ -21,7 +21,7 @@ This is a Python-based project that utilizes AI/ML algorithms to predict whether
 
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/aayushmehta01/Fake-News-Prediction.git
    ```
 2. Navigate to the project directory:
    ```bash
