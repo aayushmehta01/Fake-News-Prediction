@@ -15,7 +15,7 @@ This is a Python-based project that utilizes AI/ML algorithms to predict whether
 
 ## Dataset
 
-- The dataset used for training and testing the models is sourced from [GeeksforGeeks](https://www.geeksforgeeks.org/). Special thanks to GeeksforGeeks for providing this dataset.
+- The dataset used for training and testing the models is sourced from [GeeksforGeeks](https://github.com/ChitranjanUpadhayay). Special thanks to GeeksforGeeks for providing this dataset.
 
 ## How to Run
 
